@@ -9,7 +9,7 @@ role: pi
 <!-- website: N/A -->
 email: pchiang@fudan.edu.cn
 <!-- google:  -->
-github: PatrickAIlab
+github: AI-Design-Lab
 twitter: 
 ---
 
