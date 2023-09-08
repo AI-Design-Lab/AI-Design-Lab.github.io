@@ -1,0 +1,39 @@
+# List your resources here. Read by the resources list component.
+
+# PARAMETERS:
+
+# title:
+# Heading to show
+
+# type: legacy  featured other more
+# An arbitrary type that the resource list component can filter by.
+
+# image:
+# Url to a striking image of the resource
+
+# link:
+# Url to link to
+
+# description:
+# Description text to show
+
+# repo:
+# A GitHub repo to automatically fetch tags (aka "topics") from.
+- title: ToFNeRF
+  type: featured
+  image: images/resources/tofnerf.jpg
+  link: 
+  description: Prior neural radiance fields (NeRF) typically use a single RGB-only sensor as the only source of input, and are therefore strict with images and camera poses. In this paper, we propose ToF-NeRF, a model that fuses an additional ToF-depth sensor to the RGB-only sensor, enhancing the reconstruction ability of the neural radiance field to enable faster training, fewer input views, and higher quality (SNR).
+  repo: 
+
+- title: Diffusion Models
+  type: more
+  image: https://het.io/share-thumbnail.png
+  link: https://github.com/heejkoo/Awesome-Diffusion-Models
+  description: A collection of awsome diffusion models.
+
+- title: "Patrick Chiang"
+  type: other
+  image: https://manubot.org/share-thumbnail.png
+  link: https://www.youtube.com/watch?v=s9jBMf3n2qg&t=1087s
+  description: "UWEE Research Colloquium: April 21, 2015 - Patrick Chiang, Oregon State University"
